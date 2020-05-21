@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PadCalc", "PadCalc.csproj", "{A213DAC9-27D8-4FD1-BE41-EB50AED4588A}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A213DAC9-27D8-4FD1-BE41-EB50AED4588A}.Debug.ActiveCfg = Debug|.NET
+		{A213DAC9-27D8-4FD1-BE41-EB50AED4588A}.Debug.Build.0 = Debug|.NET
+		{A213DAC9-27D8-4FD1-BE41-EB50AED4588A}.Release.ActiveCfg = Release|.NET
+		{A213DAC9-27D8-4FD1-BE41-EB50AED4588A}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
